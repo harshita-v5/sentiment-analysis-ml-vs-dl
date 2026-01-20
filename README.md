@@ -59,6 +59,13 @@ Traditional ML models with TF-IDF remain highly competitive for sentiment analys
 Deep Learning models do not always require heavy text preprocessing.
 Fair experimentation and controlled comparisons are essential for drawing meaningful conclusions.
 
+📎 How to Run
+pip install -r requirements.txt
+Run the notebooks in order:
+Data preprocessing
+TF-IDF + Logistic Regression
+BiLSTM models
+
 Acknowledgements:-
 IMDB Dataset
 Scikit-learn & TensorFlow documentation
